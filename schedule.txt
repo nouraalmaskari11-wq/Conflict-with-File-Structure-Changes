@@ -12,9 +12,9 @@ Friday: Review
 Weekly Schedule Table
 | **Day**       | **Tasks**                                              |
 | ------------- | ------------------------------------------------------ |
-| **Monday**    | - Team Meeting<br>- Planning Session                   |
-| **Tuesday**   | - Frontend Development<br>- Development Sprint (Day 1) |
-| **Wednesday** | - Backend Development<br>- Development Sprint (Day 2)  |
-| **Thursday**  | - Integration Testing<br>- General Testing / QA        |
-| **Friday**    | - Code Review<br>- Final Review<br>- Deployment        |
+| **Monday**    | - Team Meeting /Planning                               |
+| **Tuesday**   | - Frontend Development/ Development Sprint             |
+| **Wednesday** | - Backend Development/ Development Sprint              |
+| **Thursday**  | - Integration Testing/  Testing                        |
+| **Friday**    | - Code Review<br/Deployment/ Review        |
 
